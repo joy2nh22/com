@@ -1,0 +1,5 @@
+print("선택하세요.")
+print("1. 가위.")
+print("2. 바위.")
+print("3. 보.")
+user_choice = input()
